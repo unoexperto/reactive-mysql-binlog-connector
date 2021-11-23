@@ -7,3 +7,8 @@ target
 .settings
 .vagrant
 .*.sw*
+/gradlew
+/gradlew.bat
+.gradle
+gradle
+build
